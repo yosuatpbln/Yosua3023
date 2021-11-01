@@ -1,1 +1,2 @@
 ini adalah latuhan mandiri pertama.
+saya sedang mencoba memahami git.
